@@ -3,6 +3,8 @@ Here you will find some of my fritzing parts that I made along my experience wit
 
 ## Library contents ##
 
+http://i63.tinypic.com/14133fc.png
+
 1. ***ETTI Development Board Fritzing Part***
 
 - Board size: 88x64mm
