@@ -5,6 +5,8 @@ Here you will find some of my fritzing parts that I made along my experience wit
 
 1. ***ETTI Development Board Fritzing Part***
 
+![Image of ETTI Board](http://i63.tinypic.com/14133fc.png)
+
 - Board size: 88x64mm
 - Brain: ATmega16
 - ATmega accesible pins: 40 (available in Fritzing)
